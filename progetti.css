@@ -227,6 +227,12 @@ color: white;
     margin-left: 1.5rem;
     
 }
+
+.titolo-parte-scritta{
+
+font-size: 30px;
+
+}
     
 .paragrafo-parte-scritta-mobile {
     
@@ -272,7 +278,7 @@ color: white;
 
     background-color: #5e17eb;
     width: 50%;
-    margin: 0 auto;
+    margin: o auto;
     margin-top: 45px;
     
 
@@ -451,6 +457,21 @@ color: #fc5f22;
 
 }
 
+.paragrafo-footer-designed-by {
+
+text-align: center;
+margin-top: 8px;
+color: white;
+font-size: 20px;
+
+}
+
+.designed-by-footer {
+
+color: #fc5f22;
+font-size: 22px;
+
+}
 
 .paragrafo-footer-mobile {
 
