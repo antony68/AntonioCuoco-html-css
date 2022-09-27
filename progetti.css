@@ -278,7 +278,7 @@ font-size: 30px;
 
     background-color: #5e17eb;
     width: 50%;
-    margin: o auto;
+    margin: 0 auto;
     margin-top: 45px;
     
 
@@ -305,7 +305,7 @@ font-size: 30px;
     flex-direction: column;
     background-color: #5e17eb;
     margin-top: 20px;
-    margin-right: 15px;
+    margin-right: 20px;
     height: 270px;
 
 }
