@@ -24,12 +24,19 @@
 
         }
 
-        #riga-header {
+        #riga-header{
 
-       margin: 0;
-      
+        /* margin: 0; */
+        height: 150px;
 
         }
+
+        #riga-logo {
+
+        height: 80px;
+
+        }
+        
 
         #columns-nav {
 
@@ -48,9 +55,9 @@
 
         .immagine-logo-mobile {
 
-        /* width: px;
-        height: 80px; */
-        margin-left: 6rem;
+        width: 200px;
+        height: 200px; 
+        margin-left: 34vw;
 
         }
         
@@ -90,17 +97,6 @@
       
           }
 
-          .voci-menu2-diversa{
-  
-            color: white;
-            font-size: 16px;
-            padding: 5px;
-            text-decoration: none;
-            background-color: #5e17eb;
-            text-align: center;
-            margin-left: 8px;
-                      
-            }
                               
             .voci-menu2:hover {
                       
@@ -130,7 +126,7 @@
         display: flex;
         align-items: flex-start;
         margin-top: 0px;
-        margin-right: 7px;
+        margin-left: 42px;
 
         }
       
